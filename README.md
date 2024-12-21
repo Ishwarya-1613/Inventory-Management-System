@@ -1,0 +1,1 @@
+Build a Python program to manage inventory for a store or warehouse, including features for adding, editing, and deleting products, tracking inventory levels, and generating reports such as low-stock alerts or sales summaries
